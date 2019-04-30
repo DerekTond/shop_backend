@@ -1,0 +1,2 @@
+FLASK_APP=shoplist
+FLASK_ENV=development
